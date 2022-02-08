@@ -1,0 +1,50 @@
+img{
+    max-width: 100% !important;
+}
+
+.navbar-brand img {
+    width: 62px;
+}
+.navebar-style-11{
+    background: #ffffff !important;
+}
+
+.carousel-bg{
+    background: #f9f9ff;
+}
+.card-frem{
+    background: #f9f9ff;
+}
+h1 h2 h3 h4 h5 h6 div body samp small {
+    font-family: 'Roboto', sans-serif;
+}
+.card-bivag{
+    background: #ffffff;
+}      
+.card-bivag p {
+    height: 100px;
+    width: 100px;
+    background: #f9f9ff;
+    line-height: 286%;
+    border-radius: 50%;
+    font-size: 36px;
+    text-align: center;
+    margin: auto;
+}
+.card-bivag ul{
+    
+}
+.card-bivag ul li{
+    list-style: none;
+}
+.card-sssa{
+    background: #fdfdfd;
+}
+.card-sss img {
+    margin-top: -36px;
+    width: 80px;
+    height: auto;
+}
+
+
+
